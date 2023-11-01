@@ -1,4 +1,4 @@
-# CE103-ComputerArchitecture-Lab
+# CE103-CA-Lab
 Solutions to Prof. Sarbazi's CE103: Computer Architecture Lab (Sharif University of Technology - Fall 2022) Assignments
 
 ## Overview
