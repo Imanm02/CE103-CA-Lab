@@ -8,13 +8,13 @@ This repository contains solutions to the practices, course instructions, and ot
 ## Table of Contents
 
 - [Overview](#overview)
-- [Practice](#practice)
+- [Practices](#practices)
 - [Instructions](#instructions)
 - [Maintainer](#Maintainer)
 
 ## Practices
 
-The "Practices" folder contains the solutions to the practices that were given during the course.
+The "Practices" folder contains the solutions to the 8 practices that were given during the course.
 
 ## Instructions
 
